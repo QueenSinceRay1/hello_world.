@@ -1,2 +1,3 @@
 # hello_world.
 My introduction...
+Well I'm pretty new to this so just work with me here. Always found coding interesting!
